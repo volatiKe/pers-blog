@@ -1,0 +1,18 @@
+{
+  "defaultViewMode": "source",
+  "legacyEditor": false,
+  "readableLineLength": false,
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "foldHeading": false,
+  "foldIndent": false,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "spellcheck": false,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative",
+  "livePreview": true
+}

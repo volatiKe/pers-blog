@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "5fa247930169a3c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1a726bd1cd40c02",
+        "type": "split",
+        "children": [
+          {
+            "id": "11fbe516a6401b70",
+            "type": "split",
+            "dimension": 64.33333333333333,
+            "children": [
+              {
+                "id": "2fcb036aa6fba3fb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "GTD/2022-daily/2022-05-07.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "27f9c5e2f0be95ef",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Info/机器.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "d9976da5577cd765",
+            "type": "split",
+            "dimension": 35.66666666666667,
+            "children": [
+              {
+                "id": "f79ac6674bb6f5ea",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "GTD/2022-undone/undone.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "e5478ba446206378",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "GTD/2022-todo/todo.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c87f4d3a25d5272e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c993f0eab604fb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67dd981fc3075972",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba830c85cb50b926",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e54cca2b1a4710d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccae3721b5e0b4dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a870261410b2a74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GTD/2022-undone/undone.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "49d59b676895bb57",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4cb8d4176b15c5e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GTD/2022-undone/undone.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db7c054552e9bbec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GTD/2022-undone/undone.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f79ac6674bb6f5ea",
+  "lastOpenFiles": [
+    "GTD/2022-undone/undone.md",
+    "GTD/2022-daily/2022-05-07.md",
+    "GTD/2022-todo/todo.md",
+    "GTD/2022-daily/2022-05-06.md",
+    "GTD/2022-daily/2022-05-05.md",
+    "GTD/2022-daily/2022-04-26.md",
+    "Template/daily.md",
+    "Info/机器.md",
+    "Info/db.md",
+    "GTD/2022-daily/2022-05-04.md"
+  ]
+}
